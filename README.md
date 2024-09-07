@@ -1,4 +1,4 @@
-Project Title: Web Scraping and Data Visualization of Bookstore Products
+# Project Title: Web Scraping and Data Visualization of Bookstore Products
 
 
 # Objective:  
@@ -19,7 +19,7 @@ To automate the extraction of product data (such as book details and prices) fro
 - HTML Visualization: Converted the DataFrame into an HTML table, including embedded images, to present the data in a visually appealing format.
 
 
-# Explanation
+# Explanation:
 
 Web Scraping is the automated process of extracting data from websites. It involves using software or scripts to collect structured information (such as text, images, or links) from web pages for various purposes like data analysis, research, or automation.
 
